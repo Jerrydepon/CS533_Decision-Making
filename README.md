@@ -1,4 +1,4 @@
-# CS533_Decision_Making (2019 Spring)
+# CS533_Intelligent_Agent (2019 Spring)
 HW1: <br />
 Ray Framework and Intel AI DevCloud.
 

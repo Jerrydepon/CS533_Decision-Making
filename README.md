@@ -4,12 +4,12 @@ Ray Framework and Intel AI DevCloud.
 
 -----------------
 HW2: <br />
-Distributed Synchronous Value Iteration.
+Distributed Synchronous Value Iteration on FrozenLake Game.
 
 -----------------
 HW3: <br />
-Distributed Q-Learning and SARSA.
+Distributed Q-Learning and SARSA on FrozenLake Game.
 
 -----------------
 HW4: <br />
-Distributed Deep Q-Learning
+Distributed Deep Q-Learning on Cart Pole Game.
